@@ -1,56 +1,35 @@
+<!-- Header Terminal Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=ABDULLAH%20ABO%20AMRA&fontSize=42&fontColor=00FF66&fontAlignY=35&animation=twinkling&desc=COMPUTER%20SYSTEMS%20ENGINEER%20%7C%20FRONT-END%20DEV&descSize=16&descAlignY=62&descAlign=50" width="100%" />
+</p>
+
+<!-- ASCII ART BANNER -->
+<pre align="center" style="color: #00FF66; background-color: #000; padding: 10px; border-radius: 5px;">
+ ____________________________________________________________________
+/  ___  _   _  ____  _____ ____  ____  _   _ _  _____  ____  ____   \
+| / __|| | | ||  _ \|  ___|  _ \|  _ \| | | | |/ / _ \|  _ \/ ___|  |
+| \__ \| |_| || |_) | |_  | |_) | |_) | |_| | ' < | | | |_) \___ \  |
+| |___/|  _  ||  _ <|  _| |  _ <|  _ <|  _  | .  \| |_| |  _ <___) | |
+\______|_| |_||_| \_\_|   |_| \_\_| \_\_| |_|_|\_\\___/|_| \_\____/ /
+ --------------------------------------------------------------------
+</pre>
+
+<!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+Abo+Amra;Computer+Systems+Engineering+Student;Front-End+Developer;Algorithms+%26+Data+Structures;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=%3E_SYSTEM.INITIATE();Hi+%F0%9F%91%8B%2C+I'm+Abdullah+Abo+Amra;Computer+Systems+Engineering+Student;Front-End+Developer;Algorithms+%26+Data+Structures;Problem+Solver+%26+Linux+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 🟢 About Me
+### 🟢 [SYSTEM INFO] // About Me
 
-* 🎓 **Education:** Computer Systems Engineering Student.
-* 💻 **Role:** Front-End Developer.
-* 🛠️ **Core Languages:** C++ & Java.
-* 🧩 **Focus:** Problem Solving, Data Structures, Algorithms & Web Performance.
-* 🎯 **Motto:** *"One accurate measurement is worth more than a thousand expert opinions."* 💻🔥
-
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66&borderColor=00FF66)](https://linkedin.com/in/abdullah-aboamra) [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF66)](mailto:1heabdullah@gmail.com)
-
----
-
-# 💻 Tech Stack
-![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF66) ![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF66) ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=00FF66) ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=00FF66) ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=00FF66) ![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=00FF66)
-
----
-
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=abdullahaboamra&theme=matrix&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://streak-stats.demolab.com/?user=abdullahaboamra&theme=matrix&hide_border=false" alt="Streak" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdullahaboamra&theme=matrix&hide_border=false&include_all_commits=true&layout=compact" alt="Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullahaboamra&theme=matrix&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
-</p>
-
----
-
-### 💡 Dev Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix" alt="Quote" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=abdullahaboamra&icon=0&color=00FF66" alt="Visitor Count" />
-  </a>
-</p>
+```yaml
+User: Abdullah Abo Amra
+Status: Computer Systems Engineering Student
+Specialization: Front-End Development & Systems Architecture
+Core_Languages: [C++, Java, JavaScript]
+Environment: Linux Mint XFCE / Terminal Heavy
+Focus: Problem Solving | Data Structures | Web Performance
+Motto: "One accurate measurement is worth more than a thousand expert opinions."
