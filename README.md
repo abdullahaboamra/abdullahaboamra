@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+Abo+Amra;Computer+Systems+Engineering+Student;Front-End+%26+Full-Stack+Developer;Algorithms+%26+Data+Structures;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+Abo+Amra;Computer+Systems+Engineering+Student;Front-End+Developer;Algorithms+%26+Data+Structures;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -9,10 +9,10 @@
 ### 🟢 About Me
 
 * 🎓 **Education:** Computer Systems Engineering Student.
-* 💻 **Role:** Front-End Developer | Aspiring Full-Stack Web Developer.
+* 💻 **Role:** Front-End Developer.
 * 🛠️ **Core Languages:** C++ & Java.
-* 🧩 **Focus:** Problem Solving, Data Structures, Algorithms & Continuous Learning.
-* 🎯 **Motto:** *"First, solve the problem. Then, write the code."* 💻🔥
+* 🧩 **Focus:** Problem Solving, Data Structures, Algorithms & Web Performance.
+* 🎯 **Motto:** *"One accurate measurement is worth more than a thousand expert opinions."* 💻🔥
 
 ---
 
